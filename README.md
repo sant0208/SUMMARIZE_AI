@@ -4,6 +4,7 @@
 
 <h1>Introduction</h1>
           <h2>Summarize any kind of article with just one click using the powerful OpenAI model.</h2>
+          <a href="https://sandy-openai-02s08p.netlify.app/">|Live|</a>
 
 
 
